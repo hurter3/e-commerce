@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/hurter3/e-commerce.svg?branch=master)](https://travis-ci.com/hurter3/e-commerce)
+
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
 Welcome hurter3,
